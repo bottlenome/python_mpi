@@ -5,6 +5,7 @@ import time
 
 #tags 
 TAG_SCORE = 0
+TAG_BEST_SCORE = 1
 TAG_STATUS = 1
 TAG_SEND_BEST = 2
 TAG_UPDATE_BEST = 3
